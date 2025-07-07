@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "download_url": "https://dachuappstore.itch.io/telosfit",
-  "changelog": "• verificacion de actualizaciones",
+  "changelog": "• Cancelacion de registro \n Selecion multiple",
   "is_forced": false,
   "release_date": "2024-07-05T10:00:00Z"
 }
